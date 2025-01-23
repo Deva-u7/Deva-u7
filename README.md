@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dasa Deva</h1>
-<h3 align="center">A Passionate Java Developer 🌟 with expertise in Backend Development, Cloud Services, and building scalable solutions</h3>
+<h3 align="center">A Passionate Java Developer 🌟 with expertise in Backend Developmen</h3>
 
 ---
 
 ### ⚡ Welcome to My GitHub Profile 🚀  
-🔭 I'm a dedicated software engineer with **2 years of experience**, specializing in **Java, Kotlin, Spring Boot**, and **Cloud Technologies**.  
+🔭 I'm a dedicated Java/Kotlin Softare Developer with **2 years of experience**, specializing in **Java, Kotlin, Spring Boot**, and **Cloud Technologies**.  
 🎯 My goal is to create impactful and scalable applications while continuously expanding my technical expertise.  
 💡 Let's connect and collaborate on innovative projects!
 
@@ -36,13 +36,13 @@
 ---
 
 ## 🛠️ Technical Skills:
-- **Languages**: Java, Kotlin, Python  
-- **Frameworks & Tools**: Spring Boot, Hibernate/JPA, Quarkus, WebFlux, Ktor, Koin, REST & SOAP Services  
-- **Databases**: Oracle, MySQL, PostgreSQL, MS SQL, MongoDB  
+- **Languages**: Java, Kotlin  
+- **Frameworks & Tools**: Spring Boot, Hibernate/JPA, Quarkus, WebFlux, Ktor, Koin, REST  
+- **Databases**: MySQL, PostgreSQL, MS SQL, MongoDB  
 - **Schedulers**: Spring Batch, CRON Jobs  
 - **Cloud & DevOps**: Docker, Kubernetes (K8s), AWS (EC2, S3, SNS, SQS, Secret Manager), OpenAPI  
 - **Version Control & PM Tools**: Git, JIRA, Confluence  
-- **Development Tools**: IntelliJ IDEA, Eclipse, Maven, Gradle  
+- **Development Tools**: IntelliJ IDEA, Maven, Gradle  
 
 ---
 

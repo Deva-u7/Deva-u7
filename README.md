@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dasa Deva</h1>
-<h3 align="center">A Passionate Java Developer 🌟 with expertise in Backend Developmen</h3>
+<h3 align="center">A Passionate Java Developer 🌟</h3>
 
 ---
 

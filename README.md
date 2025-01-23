@@ -12,7 +12,7 @@
 
 ## 📫 How to Reach Me:
 - **Email**: dasadeva8189@gmail.com  
-- **LeetCode**: [deva_u7](https://leetcode.com/deva_u7/)  
+- **LeetCode**: [Dasa Deva](https://leetcode.com/deva-u7/)  
 - **LinkedIn**: [Dasa Deva](https://www.linkedin.com/in/deva-u7/)
 
 ---

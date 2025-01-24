@@ -4,7 +4,7 @@
 ---
 
 ### ⚡ Welcome to My GitHub Profile 🚀  
-🔭 I'm a dedicated Java/Kotlin Developer with **2 years of experience**, specializing in **Java, Kotlin, Spring Boot**.  
+🔭 I'm a dedicated Java/Kotlin Developer  specializing in **Java, Kotlin, Spring Boot**.  
 🎯 My goal is to create impactful and scalable applications while continuously expanding my technical expertise.  
 💡 Let's connect and collaborate on innovative projects!
 
